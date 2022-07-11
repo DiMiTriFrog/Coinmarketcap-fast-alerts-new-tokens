@@ -9,7 +9,9 @@ There are tokens that have not appeared in the api since they appear in the coin
 
 <img width="712" alt="pinksale-last-presale-tokens" src="https://user-images.githubusercontent.com/38754548/178304505-78d6ee73-72f9-46da-bfc5-1327cb11697b.png">
 
-<img width="300" alt="pinksale-last-presale-tokens-telegram-group" src="https://user-images.githubusercontent.com/38754548/178304846-8f6842a4-a802-472d-857a-c7e57b992906.png">
+<img width="300" alt="pinksale-last-presale-tokens-telegram-group" src="https://user-images.githubusercontent.com/38754548/178309006-56553298-1b3a-4cdf-b2c2-aec1c8222312.png">
+
+
 
 🟥 Insider info, with a high probability the token will be listed in less than an hour (rarely the information fails.
 
