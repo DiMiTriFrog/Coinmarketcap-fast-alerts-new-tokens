@@ -1,4 +1,4 @@
-# CoinMarketCap Telegram Bot Alert 
+# CoinMarketCap New Tokens Telegram Bot Alert 
 **A telegram group channel about a bot that sends quickly the new tokens added in Coinmarketcap. 
 [https://t.me/trackingpinksale](https://t.me/cmcfastestalertss)**
 
