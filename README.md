@@ -6,11 +6,10 @@
 The bot scrap within the api the new tokens that will arrive at https://coinmarketcap.com/new/ and sends it to a telegram group as fast as possible.
 There are tokens that have not appeared in the api since they appear in the coinmarketcap Recently added page, but other tokens are added minutes / hours before are listed officially. So with this bot people can know when the token will appear in the list and buy it earlier.
 
-![coinmarketcap-new-recently-added-tokenss](https://user-images.githubusercontent.com/38754548/178304505-78d6ee73-72f9-46da-bfc5-1327cb11697b.png)
 
-![telegram-group-fast-alerts-new-tokens-coinmarketcap](https://user-images.githubusercontent.com/38754548/178304846-8f6842a4-a802-472d-857a-c7e57b992906.png)
+<img width="712" alt="pinksale-last-presale-tokens" src="https://user-images.githubusercontent.com/38754548/178304505-78d6ee73-72f9-46da-bfc5-1327cb11697b.png">
 
-
+<img width="300" alt="pinksale-last-presale-tokens-telegram-group" src="https://user-images.githubusercontent.com/38754548/178304846-8f6842a4-a802-472d-857a-c7e57b992906.png">
 
 
 Are you interested in getting a bot like this or similar?
