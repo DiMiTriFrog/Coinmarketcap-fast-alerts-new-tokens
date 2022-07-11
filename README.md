@@ -12,7 +12,9 @@ There are tokens that have not appeared in the api since they appear in the coin
 <img width="300" alt="pinksale-last-presale-tokens-telegram-group" src="https://user-images.githubusercontent.com/38754548/178304846-8f6842a4-a802-472d-857a-c7e57b992906.png">
 
 🟥 Insider info, with a high probability the token will be listed in less than an hour (rarely the information fails.
+
 🟨 The token is in Api, ina few minutes will be listed in CoinMarketCap Recently Added (new tokens page)
+
 🟩 Token is officially listed in CoinMarketCap Recently Added [https://coinmarketcap.com/new](https://coinmarketcap.com/new)
 
 Are you interested in getting a bot like this or similar?
