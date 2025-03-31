@@ -34,4 +34,4 @@ Are you interested in trending ranking services such as Coinmarketcap, Coingecko
 If you need any of these things or need to find someone to develop an idea for you feel free to get in touch via Telegram
 
 # **Contact:**
-## **https://t.me/nobility_dev**
+## **https://t.me/notradesnogains**
